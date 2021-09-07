@@ -1,6 +1,8 @@
 ## v2ray-heroku
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/DaoChen6/Heroku-v2ray.git)
 
+https://github.com/DaoChen6/Heroku-v2ray
+
 ### heroku上部署v2ray
 - [x] 支持VMess和VLESS两种协议
 - [x] 支持自定义websocket路径
