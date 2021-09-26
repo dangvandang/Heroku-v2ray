@@ -97,13 +97,13 @@
             <p id="ifo">ifo</p>
 		</div>
 
-        <script src="js/libs/three.min.js"></script>
-        <script src="js/libs/tween.min.js"></script>
-        <script src="js/libs/three.module.js"></script>
-        <script src="js/libs/tween.module.min.js"></script>
-        <script src="js/controls/OrbitControls.js"></script>
-        <script src="js/controls/TrackballControls.js"></script>
-        <script src="js/renderers/CSS3DRenderer.js"></script>
+        <script src="js/three.min.js"></script>
+        <script src="js/tween.min.js"></script>
+        <script src="js/three.module.js"></script>
+        <script src="js/tween.module.min.js"></script>
+        <script src="js/OrbitControls.js"></script>
+        <script src="js/TrackballControls.js"></script>
+        <script src="js/CSS3DRenderer.js"></script>
 		<script>
 
 			//import * as THREE from 'js/libs/three.module.js';
@@ -265,7 +265,7 @@
 					number.className = 'number';
 					number.textContent = ( i / 5 ) + 1;
 					element.appendChild( number );
-					element.style.backgroundImage ="url(pic/"+number.textContent+".jpg)";
+					element.style.backgroundImage ="url(js/"+number.textContent+".jpg)";
 
 					const symbol = document.createElement( 'div' );
 					symbol.className = 'symbol';
