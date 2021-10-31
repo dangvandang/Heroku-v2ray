@@ -1,5 +1,5 @@
 ## v2ray-heroku
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/mvwtest/Heroku-v2ray.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dangvandang/Heroku-v2ray.git)
 
 https://github.com/DaoChen6/Heroku-v2ray
 
